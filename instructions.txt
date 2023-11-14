@@ -1,0 +1,9 @@
+
+/home/miles/NetInfo/network_info_$date.txt"
+
+
+before running change the /miles/ path to your name 
+
+
+run the script in the terminal with ./script.sh 
+
